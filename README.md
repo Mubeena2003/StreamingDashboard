@@ -6,7 +6,9 @@ A modern, responsive streaming dashboard built with Next.js 14, Tailwind CSS, an
 1. Clone the repository or extract this zip file.
 2. Run `npm install`.
 3. Create `.env.local` in the root with your TMDB API key: TMDB_API_KEY=2f4360d3cc5ee06bde3b17c09998a342
+    TMDB_API_KEY=2f4360d3cc5ee06bde3b17c09998a342 
    ```
+   
  HEAD
   
 =======
